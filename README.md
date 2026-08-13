@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Sebastián Norambuena Riquelme
 
-<!--
-**SebaNorambuena/SebaNorambuena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Profesional en ciberseguridad con más de 2 años de experiencia en gestión de seguridad TI, 
+respuesta a incidentes y administración de infraestructura.
 
-Here are some ideas to get you started:
+💻 También desarrollo software con JavaScript y Python, combinando mi perfil de seguridad 
+con capacidad de construir y automatizar soluciones propias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Cursando Ingeniería en Ciberseguridad en Instituto Profesional San Sebastián.
+
+🏆 Certificaciones: eJPT · ICCA (INE/eLearnSecurity)
+
+🛠️ **Stack & herramientas:**
+- Desarrollo: JavaScript / TypeScript, Python, Bash, PowerShell, Docker, Git, PostgreSQL
+- Seguridad: Nmap, Metasploit, Burp Suite, Wazuh, Splunk
+- Sistemas: Active Directory, Azure AD, Office 365
+- Cloud: Azure, nociones de AWS (IAM, EC2, S3)
+
+📫 Contacto: sebastian.norambuena.riquelme@gmail.com | [LinkedIn](https://linkedin.com/in/sebastian-norambuena-riquelme)
